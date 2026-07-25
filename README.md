@@ -38,7 +38,7 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>👤 Identity Profile</h3>
+        <h3>👤 Profile</h3>
         <p><b>Name:</b> <code>DHITHIMOS E J</code></p>
         <p><b>Education:</b> <code>BCA Student</code></p>
         <p><b>Primary Focus:</b> <code>Cybersecurity • DFIR • Malware Analysis</code></p>
