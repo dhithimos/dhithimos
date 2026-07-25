@@ -62,14 +62,22 @@
 <!-- 🤖 Holographic Cyber Dashboard -->
 <h2 align="center">🤖 Holographic Cyber Dashboard</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Vigilant-Sphere&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00F7FF&text_color=A8B5C4&icon_color=00F7FF" width="49%" alt="Vigilant Sphere Repo Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F7FF&text_color=A8B5C4" width="49%" alt="Top Languages Card" />
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Dhithimos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=A8B5C4&icon_color=00F7FF" alt="GitHub Stats" width="420"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhithimos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=A8B5C4" alt="Top Languages" width="350"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<!-- ⚡ Current Mission -->
+<!-- 🛡️ Current Mission -->
 <h2>🛡️ Current Mission: Vigilant Sphere</h2>
 
 > An AI-powered Cybersecurity & Digital Forensics Platform engineered for real-time monitoring, automated vulnerability management, and threat mitigation.
