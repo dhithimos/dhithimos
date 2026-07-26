@@ -45,11 +45,7 @@
 ---
 
 
-  <a href="[https://github.com/dhithimos](https://github.com/dhithimos)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhithimos&repo=BOLSTER-ENFORCE&theme=tokyonight" />
-  </a>
-
-</p>
+  
 
 ---
 
