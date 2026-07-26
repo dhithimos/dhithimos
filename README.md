@@ -45,10 +45,6 @@
 ---
 
 
-  
-
----
-
 ## 🛰️ Contribution Snake
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ![Snake dark](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
