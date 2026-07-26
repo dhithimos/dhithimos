@@ -20,7 +20,6 @@
 
 ---
 
-## 🔥 Multi‑Layered Cyber HUD
 
 <!-- Activity Row -->
 <p align="center">
