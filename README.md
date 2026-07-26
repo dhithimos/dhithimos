@@ -44,8 +44,6 @@
 
 ---
 
-## 🚀 Featured Repositories
-<p align="center" style="backdrop-filter: blur(12px); background: rgba(0, 255, 255, 0.08); border-radius: 20px; padding: 15px;">
 
   <a href="[https://github.com/dhithimos](https://github.com/dhithimos)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhithimos&repo=BOLSTER-ENFORCE&theme=tokyonight" />
