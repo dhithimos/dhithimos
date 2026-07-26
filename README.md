@@ -1,57 +1,80 @@
-# 👋 DHITHIMOS E J
+<!-- 🌌 Animated Neon HUD Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00F0FF&center=true&vCenter=true&width=800&lines=🌌+Dhithimos+E+J;Cybersecurity+%7C+Penetration+Testing+%7C+Forensics;Certified+Ethical+Hacker+%7C+BCA+Student;🚀+Exploring+the+Digital+Frontier..." />
+</p>
 
-> Ultimate Cyberpunk GitHub README (starter)
+---
 
-## 🔥 Animated Banner
+## ⚡ About Me
+- 🧑‍💻 Name: **Dhithimos E J**
+- 🎓 Currently pursuing **BCA**
+- 🛡️ Certified **CEH (Certified Ethical Hacker)**
+- 🔍 Passionate about **Cybersecurity, Penetration Testing, and Cyber Forensics**
+- 🚀 Exploring futuristic cyber defense inspired by **Hack The Box, Kali Linux, Tron, Cyberpunk 2077**
 
-``` html
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=DHITHIMOS%20E%20J&animation=twinkle"/>
-```
+---
 
-## ⚡ Live Terminal
+## 📬 Contact
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dhithimosej/)
+- 📧 Email: **ejdhithimos@gmail.com**
 
-``` python
-print("Initializing Vigilant Sphere...")
-```
+---
 
-## 🤖 Dashboard
+## 🔥 Multi‑Layered Cyber HUD
 
-Replace `YOUR_USERNAME` with your GitHub username.
+<!-- Activity Row -->
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://img.shields.io/github/commit-activity/m/dhithimos/dhithimos?color=00F0FF&style=for-the-badge&label=Commits&logo=github&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/github/stars/dhithimos?color=00F0FF&style=for-the-badge&label=Stars&logo=github&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/github/followers/dhithimos?color=00F0FF&style=for-the-badge&label=Followers&logo=github&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/github/issues/dhithimos/dhithimos?color=00F0FF&style=for-the-badge&label=Issues&logo=github&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/github/issues-pr/dhithimos/dhithimos?color=00F0FF&style=for-the-badge&label=PRs&logo=github&logoColor=white&labelColor=000000" />
+  </marquee>
+</p>
 
-``` html
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-```
+<!-- Certifications Row -->
+<p align="center">
+  <marquee behavior="scroll" direction="right" scrollamount="5">
+    <img src="https://img.shields.io/badge/CEH-Certified-00F0FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/PenTester-Active-00F0FF?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Forensics-Investigator-00F0FF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Network-Security-00F0FF?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000" />
+  </marquee>
+</p>
 
-## 🛡️ Vigilant Sphere
+---
 
-AI-powered cybersecurity and DFIR platform.
+## 🚀 Featured Repositories
+<p align="center" style="backdrop-filter: blur(12px); background: rgba(0, 255, 255, 0.08); border-radius: 20px; padding: 15px;">
 
-## 💻 Tech Stack
+  <a href="https://github.com/dhithimos/BOLSTER-ENFORCE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhithimos&repo=BOLSTER-ENFORCE&theme=tokyonight" />
+  </a>
 
-Use skillicons.dev.
+</p>
 
-## 🏆 Certifications
+---
 
--   CEH (In Progress)
--   BCA
--   Python
+## 🛰️ Contribution Snake
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake dark](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
-## 🐍 Contribution Snake
+---
 
-Configure GitHub Actions to generate:
-`output/github-contribution-grid-snake-dark.svg`
+## 📊 GitHub Analytics
+<p align="center" style="backdrop-filter: blur(10px); background: rgba(0, 255, 255, 0.1); border-radius: 15px; padding: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhithimos&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhithimos&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhithimos&layout=compact&theme=tokyonight" />
+</p>
 
-## 📈 Activity Graph
+---
 
-`github-readme-activity-graph`
-
-## 🌐 Connect
-
-Add GitHub, LinkedIn, Email.
-
-------------------------------------------------------------------------
-
-This is a downloadable starter template. ChatGPT cannot fit a true
-1500--2000 line README in one response.
+## 🛡️ Cyber‑Glass Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/CEH-Certified-00F0FF?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PenTester-Active-00F0FF?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Forensics-Investigator-00F0FF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Network-Security-00F0FF?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=000000" />
+</p>
